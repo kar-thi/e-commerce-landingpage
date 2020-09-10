@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="889" height="671" viewBox="0 0 889 671">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9b9beb"/>
+      <stop offset="1" stop-color="#66c"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_28" data-name="Group 28" transform="translate(-960 -232)">
+    <g id="Group_27" data-name="Group 27" transform="translate(960 232)">
+      <g id="Annotation_2020-08-10_1722489hi" data-name="Annotation 2020-08-10 1722489hi" transform="translate(295)" fill="none" stroke="#cecbcb" stroke-width="2">
+        <ellipse cx="150" cy="149.5" rx="150" ry="149.5" stroke="none"/>
+        <ellipse cx="150" cy="149.5" rx="149" ry="148.5" fill="none"/>
+      </g>
+      <g id="_1" data-name="1" transform="translate(85.202 187.946)">
+        <g id="Component_11_1" data-name="Component 11 – 1" transform="translate(5.044 5.023)">
+          <path id="Path_719" data-name="Path 719" d="M879.931,340.2,723.667,442.378V617.6" transform="translate(-723.667 -340.2)" fill="none" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(157.798 0.054)" fill="#707070" stroke="#707070" stroke-width="2">
+          <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+          <circle cx="5.5" cy="5.5" r="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_32" data-name="Ellipse 32" transform="translate(-0.202 281.054)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="4.5" cy="4" rx="4.5" ry="4" stroke="none"/>
+          <ellipse cx="4.5" cy="4" rx="3.5" ry="3" fill="none"/>
+        </g>
+      </g>
+      <g id="_2" data-name="2" transform="translate(257.277 289.854)">
+        <path id="Path_720" data-name="Path 720" d="M870.168,396.1l-51.3,41.973v28.285" transform="translate(-812.917 -391.414)" fill="none" stroke="#707070" stroke-width="2"/>
+        <g id="Ellipse_33" data-name="Ellipse 33" transform="translate(54.723 0.146)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="5" cy="4.5" rx="5" ry="4.5" stroke="none"/>
+          <ellipse cx="5" cy="4.5" rx="4" ry="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_34" data-name="Ellipse 34" transform="translate(-0.277 72.146)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="6.5" cy="5.5" rx="6.5" ry="5.5" stroke="none"/>
+          <ellipse cx="6.5" cy="5.5" rx="5.5" ry="4.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_3" data-name="3" transform="translate(438.54 328.279)">
+        <g id="Component_12_1" data-name="Component 12 – 1" transform="translate(5.724 5.813)">
+          <path id="Path_721" data-name="Path 721" d="M918.5,417.867V556.385" transform="translate(-918.5 -417.867)" fill="none" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g id="Ellipse_35" data-name="Ellipse 35" transform="translate(0.46 -0.279)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="5" cy="5.5" rx="5" ry="5.5" stroke="none"/>
+          <ellipse cx="5" cy="5.5" rx="4" ry="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_36" data-name="Ellipse 36" transform="translate(0.46 137.721)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="5" cy="5.5" rx="5" ry="5.5" stroke="none"/>
+          <ellipse cx="5" cy="5.5" rx="4" ry="4.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_4" data-name="4" transform="translate(565.508 289.854)">
+        <g id="Component_13_1" data-name="Component 13 – 1" transform="translate(4.616 3.899)">
+          <path id="Path_722" data-name="Path 722" d="M987.767,395.667l53.3,41.974v29.5" transform="translate(-987.767 -395.667)" fill="none" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g id="Ellipse_37" data-name="Ellipse 37" transform="translate(50.492 74.146)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="6.5" cy="5.5" rx="6.5" ry="5.5" stroke="none"/>
+          <ellipse cx="6.5" cy="5.5" rx="5.5" ry="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_38" data-name="Ellipse 38" transform="translate(0.492 0.146)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="5" cy="4.5" rx="5" ry="4.5" stroke="none"/>
+          <ellipse cx="5" cy="4.5" rx="4" ry="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_5" data-name="5" transform="translate(632.333 184.604)">
+        <g id="Component_14_1" data-name="Component 14 – 1" transform="translate(5.021 6.547)">
+          <path id="Path_723" data-name="Path 723" d="M1024.767,339.2l159.9,105.024V616.6" transform="translate(-1024.767 -339.2)" fill="none" stroke="#707070" stroke-width="2"/>
+        </g>
+        <g id="Ellipse_39" data-name="Ellipse 39" transform="translate(-0.333 0.396)" fill="#707070" stroke="#707070" stroke-width="2">
+          <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+          <circle cx="5.5" cy="5.5" r="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_40" data-name="Ellipse 40" transform="translate(160.667 282.396)" fill="#707070" stroke="#707070" stroke-width="2">
+          <ellipse cx="5.5" cy="5" rx="5.5" ry="5" stroke="none"/>
+          <ellipse cx="5.5" cy="5" rx="4.5" ry="4" fill="none"/>
+        </g>
+      </g>
+      <g id="Annotation_2020-08-10_172244" data-name="Annotation 2020-08-10 172244" transform="translate(0 489)" fill="none" stroke="#cecbcb" stroke-width="2">
+        <circle cx="91" cy="91" r="91" stroke="none"/>
+        <circle cx="91" cy="91" r="90" fill="none"/>
+      </g>
+      <g id="Annotation_2020-08-10_172245" data-name="Annotation 2020-08-10 172245" transform="translate(172 384)" fill="none" stroke="#cecbcb" stroke-width="2">
+        <circle cx="91" cy="91" r="91" stroke="none"/>
+        <circle cx="91" cy="91" r="90" fill="none"/>
+      </g>
+      <g id="Annotation_2020-08-10_172246" data-name="Annotation 2020-08-10 172246" transform="translate(353 487)" fill="none" stroke="#cecbcb" stroke-width="2">
+        <ellipse cx="90.5" cy="91" rx="90.5" ry="91" stroke="none"/>
+        <ellipse cx="90.5" cy="91" rx="89.5" ry="90" fill="none"/>
+      </g>
+      <g id="Annotation_2020-08-10_1722489" data-name="Annotation 2020-08-10 1722489" transform="translate(531 384)" fill="none" stroke="#cecbcb" stroke-width="2">
+        <circle cx="91" cy="91" r="91" stroke="none"/>
+        <circle cx="91" cy="91" r="90" fill="none"/>
+      </g>
+      <g id="Annotation_2020-08-10_1722489f" data-name="Annotation 2020-08-10 1722489f" transform="translate(707 487)" fill="none" stroke="#cecbcb" stroke-width="2">
+        <circle cx="91" cy="91" r="91" stroke="none"/>
+        <circle cx="91" cy="91" r="90" fill="none"/>
+      </g>
+    </g>
+    <path id="watch-fitness" d="M48.638,37.878ZM58.814,15V5.881A5.882,5.882,0,0,0,52.933,0H17.644a5.882,5.882,0,0,0-5.881,5.881V15A14.708,14.708,0,0,0,0,29.407V64.7A14.708,14.708,0,0,0,11.763,79.1v9.118A5.882,5.882,0,0,0,17.644,94.1H52.933a5.882,5.882,0,0,0,5.881-5.881V79.1A14.706,14.706,0,0,0,70.577,64.7V29.407A14.708,14.708,0,0,0,58.814,15ZM17.644,5.881H52.933V14.7H17.644Zm35.289,82.34H17.644V79.4H52.933ZM64.7,64.7a8.832,8.832,0,0,1-8.822,8.822H14.7A8.832,8.832,0,0,1,5.881,64.7V29.407A8.832,8.832,0,0,1,14.7,20.585h41.17A8.832,8.832,0,0,1,64.7,29.407Z" transform="translate(1014.29 765.031)" fill="url(#linear-gradient)"/>
+    <path id="tablet" d="M40.119,65.194a5.015,5.015,0,0,1-10.03,0A4.685,4.685,0,0,1,35.1,60.179,5.01,5.01,0,0,1,40.119,65.194ZM70.209,7.522V72.716a7.524,7.524,0,0,1-7.522,7.522H7.522A7.524,7.524,0,0,1,0,72.716V7.522A7.524,7.524,0,0,1,7.522,0H62.686A7.524,7.524,0,0,1,70.209,7.522Zm-5.015,0a2.515,2.515,0,0,0-2.507-2.507H7.522A2.515,2.515,0,0,0,5.015,7.522V72.716a2.515,2.515,0,0,0,2.507,2.507H62.686a2.515,2.515,0,0,0,2.507-2.507Z" transform="translate(1553.491 666.322)" fill="url(#linear-gradient)"/>
+    <path id="tv" d="M98.474,0H7.984A7.984,7.984,0,0,0,0,7.984V61.214A7.984,7.984,0,0,0,7.984,69.2H50.568V79.844H22.622a1.331,1.331,0,0,0-1.331,1.331v2.661a1.331,1.331,0,0,0,1.331,1.331H83.836a1.331,1.331,0,0,0,1.331-1.331V81.174a1.331,1.331,0,0,0-1.331-1.331H55.891V69.2H98.474a7.984,7.984,0,0,0,7.984-7.984V7.984A7.984,7.984,0,0,0,98.474,0Zm2.661,61.214a2.661,2.661,0,0,1-2.661,2.661H7.984a2.661,2.661,0,0,1-2.661-2.661V7.984A2.661,2.661,0,0,1,7.984,5.323h90.49a2.661,2.661,0,0,1,2.661,2.661Z" transform="translate(1170.992 668.79)" fill="url(#linear-gradient)"/>
+    <path id="mobile" d="M36.373,78.809a6.062,6.062,0,1,1-6.062-6.062A6.056,6.056,0,0,1,36.373,78.809ZM60.622,9.093V87.9A9.1,9.1,0,0,1,51.529,97H9.093A9.1,9.1,0,0,1,0,87.9V9.093A9.1,9.1,0,0,1,9.093,0H51.529A9.1,9.1,0,0,1,60.622,9.093Zm-6.062,0a3.04,3.04,0,0,0-3.031-3.031H9.093A3.04,3.04,0,0,0,6.062,9.093V87.9a3.04,3.04,0,0,0,3.031,3.031H51.529A3.04,3.04,0,0,0,54.56,87.9Z" transform="translate(1373.346 766.265)" fill="url(#linear-gradient)"/>
+    <path id="shopping-cart" d="M77.949,9.038H18.256L17.08,2.765A3.389,3.389,0,0,0,13.749,0H1.695A1.7,1.7,0,0,0,0,1.695v1.13A1.7,1.7,0,0,0,1.695,4.519H12.811l9.875,52.665A9.039,9.039,0,1,0,37.2,58.745H57.7a9.038,9.038,0,1,0,14.125-1.958,3.391,3.391,0,0,0-3.288-2.56H26.729l-1.695-9.038h46.8a3.389,3.389,0,0,0,3.318-2.7l6.119-29.372A3.389,3.389,0,0,0,77.949,9.038ZM33.891,63.264a4.519,4.519,0,1,1-4.519-4.519A4.524,4.524,0,0,1,33.891,63.264Zm31.632,4.519a4.519,4.519,0,1,1,4.519-4.519A4.524,4.524,0,0,1,65.523,67.783ZM70.911,40.67H24.187L19.1,13.557H76.56Z" transform="translate(1712.66 778.604)" fill="url(#linear-gradient)"/>
+    <path id="cloud" d="M163.611,91.183a32.069,32.069,0,0,0-30.822-40.867,31.7,31.7,0,0,0-13.737,3.091,50.364,50.364,0,0,0-91.522,26.73A41.2,41.2,0,0,0,41.21,160.21H146.526a36.627,36.627,0,0,0,17.085-69.028Zm-17.085,59.87H41.21a32.054,32.054,0,0,1-4.293-63.819,39.3,39.3,0,0,1-.286-4.865A41.223,41.223,0,0,1,116.019,66.8a22.891,22.891,0,0,1,34.829,29.649,27.473,27.473,0,0,1-4.321,54.6Z" transform="translate(1317.822 271.564)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
