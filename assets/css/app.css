@@ -127,3 +127,61 @@ b {
 .client-list ul li:hover img {
     transform: scale(1.05);
 }
+
+.show-mob {
+    display: none;
+}
+
+@media (max-width: 992px) {
+    .navbar-toggler {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-area .navbar .navbar-btn li a.solid {
+        display: none;
+    }
+    .navbar-a .mobile-black-box {
+        width: 50%;
+        float: left;
+    }
+    .dont-show-mob {
+        display: none;
+    }
+    .show-mob {
+        display: initial;
+    }
+    .navbar-brand {
+        margin: auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .mobile-black-box h4 {
+        font-size: 18px;
+    }
+    .mobile-black-box .black-box svg {
+        min-width: 2rem;
+        max-width: 2rem;
+        fill: #fff;
+        margin: 1rem 0;
+    }
+    .scratch .black-box {
+        min-height: 14rem;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1300px) {
+    .carousel .carousel-control-prev {
+        left: 7px;
+    }
+    .carousel .carousel-control-next {
+        right: 7px;
+        left: auto;
+    }
+    .single-features .features-title-icon .features-title a {
+        font-size: 36px;
+        line-height: 45px;
+    }
+}
